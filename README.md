@@ -1,4 +1,4 @@
 # translation-frontend-base
 
-## jquery
-## i18n
+- jquery
+- i18n
