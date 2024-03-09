@@ -32,7 +32,7 @@ $(function () {
               h1Title: "H1 title 🇬🇧",
               h1Text: "H1 text 🇬🇧"
             },
-            footer: {
+            lang: {
               text: "Select language: ",
               huTitle: "Hungarian",
               huLogo: "🇭🇺",
@@ -44,10 +44,10 @@ $(function () {
         hu: {
           translation: {
             header: {
-              h1Title: "H1 cím 🇭🇺",
+              h1Title: "H1 címsor 🇭🇺",
               h1Text: "H1 szöveg 🇭🇺"
             },
-            footer: {
+            lang: {
               text: "Nyelv választása: ",
               huTitle: "Magyar",
               huLogo: "🇭🇺",
